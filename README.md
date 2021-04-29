@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# Highway Accident Rates in Minnesota in 1973
 
-You can use the [editor on GitHub](https://github.com/sydly148/highway-accidents-minnesota/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+by Sydney Ly
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This dataset describes the accidents per million vehicle miles from 39 sections of large highways in Minnesota in 1973. The data also includes other factors, such as lane width, speed limit, average daily traffic count, number of lanes, and the width of the outer shoulder as possible links to accident rate. It was downloaded from the [Rdatasets](https://vincentarelbundock.github.io/Rdatasets/articles/data.html) website. 
 
-### Markdown
+TODO: Put visualization here
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sydly148/highway-accidents-minnesota/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+In the above visualization, it appears that the accident rate is actually higher when the average daily traffic count is lower, with speed limits of around 50 mph and under actually having higher accident rates than speed limits above 50 mph.
